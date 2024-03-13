@@ -45,5 +45,5 @@ const DeleteButton = ({ productId, onProductDeleted }) => {
 };
 
 export default DeleteButton;
-/*Check the extra part underneath it*/
+
 
